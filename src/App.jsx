@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 function App() {
   return (
     <>
-      <Hero></Hero>
+      <h1 className="text-4xl">Coffee Store</h1>
     </>
   );
 }
